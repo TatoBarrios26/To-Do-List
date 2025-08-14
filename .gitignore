@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.xlsx
+*.pdf
+venv/
+.env
+
+# PHP
+vendor/
+*.log
+*.cache
+.env
+
+# Otros
+.DS_Store
